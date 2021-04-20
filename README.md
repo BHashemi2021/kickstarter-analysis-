@@ -1,2 +1,2 @@
 # kickstarter-analysis-
-The analysis of a Kickstarter fundraising campaign with Excel to detect trends
+Performing the analysis of a kickstarter fundraising campaign with Excel to detect trends.
