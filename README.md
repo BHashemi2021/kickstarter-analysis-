@@ -15,3 +15,9 @@ During the campaign, May was the most successful compared to other months of the
 ![Outcomes-Based-on-LaunchDate](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Outcomes-Based-on-LaunchDate.png)
 
 ---
+
+
+In the descriptive analysis of the campaigns data, the mean of goals and pledged are near the third quartile. This trend follows the same distribution in the subsets. Nevertheless, the standard deviation values are larger than the mean Therefore, everything value below the mean is considered "close" to the center but some large values are driving all of these distributions nd the standard deviations are nearly twice than the interquartile in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR (Table 1).
+
+---
+**Table 1: The descriptive analysis of the campaigns** 
