@@ -14,3 +14,6 @@ During the campaign, May was the most successful compared to other months of the
 
 ---
 
+![Outcomes-Based-on-LaunchDate](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Outcomes-Based-on-LaunchDate.png)
+
+---
