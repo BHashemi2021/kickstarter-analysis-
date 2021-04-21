@@ -22,5 +22,5 @@ In the descriptive analysis of the campaigns data, the mean of goals and pledged
 ---
 **Table 1: The descriptive analysis of the campaigns** 
 
-![SD-and-interquartiles](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/SD-and-interquartiles.png
-)
+![SD-and-interquartiles](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/SD-and-interquartiles.png)
+
