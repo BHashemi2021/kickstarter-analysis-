@@ -24,3 +24,9 @@ In the descriptive analysis of the campaigns data, the mean of goals and pledged
 
 ![SD-and-interquartiles](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/SD-and-interquartiles.png)
 
+
+The study plots show that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, and one can probably try to get a play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged . The dots outside the plots indicate the presence of some failed Kickstarters with really high goals (Chart 3).
+
+---
+Chart 3: The study plots
+
