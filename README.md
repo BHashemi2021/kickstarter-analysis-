@@ -10,10 +10,8 @@ In categorical analysis, there seem to be the largest venu for the campaign (Cha
 
 During the campaign, May was the most successful compared to other months of the year. On the other hand, January, June, July and October all had roughly the same number of failed campaigns launched (Cahrt 2).
 
-**Chart 2: The campaign trend across different months of the year**
-
 ---
-
+**Chart 2: The campaign trend across different months of the year**
 ![Outcomes-Based-on-LaunchDate](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Outcomes-Based-on-LaunchDate.png)
 
 ---
