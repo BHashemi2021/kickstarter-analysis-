@@ -4,4 +4,4 @@ In categorical analysis, theters seem to be the largest venu for the campaign (C
 
 
 **Chart 1: Categorical outcomes**
-![1- Parent category outcome_BHashemi](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Box-and-whiskers-graph.png)
+![1- Parent category outcome_BHashemi](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Parent-category-outcomes.png)
