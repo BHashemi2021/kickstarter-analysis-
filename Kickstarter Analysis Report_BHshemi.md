@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-A huge New York-based public benefit corporation, Kickstarter https://www.kickstarter.com/, is a huge global crowdfunding platform that focuses on creativity and they strive to "help bring creative projects to life". By December 2019, the company has received more than $4.6 billion in pledges from more than 17 million backers to fund 445,000 projects, including but not limited to films, music, theater plays, comedy shows, journalism, video games, technology, publishing, inventions, and food-related projects (1). To get funded by Kickstarter, the applicants need to meet their initial campaign goals. Therefore, analyzing Kickstarter data, especially those of previous projects can provide the market trends and one may need to tailor their business plans and strategy.
+A huge New York-based public benefit corporation, [Kickstarter]: https://www.kickstarter.com/, is a huge global crowdfunding platform that focuses on creativity and they strive to "help bring creative projects to life". By December 2019, the company has received more than $4.6 billion in pledges from more than 17 million backers to fund 445,000 projects, including but not limited to films, music, theater plays, comedy shows, journalism, video games, technology, publishing, inventions, and food-related projects (1). To get funded by Kickstarter, the applicants need to meet their initial campaign goals. Therefore, analyzing Kickstarter data, especially those of previous projects can provide the market trends and one may need to tailor their business plans and strategy.
 
 ### Purpose
 
