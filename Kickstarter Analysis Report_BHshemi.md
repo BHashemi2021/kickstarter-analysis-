@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-A huge New York-based public benefit corporation, [Kickstarter](https://www.kickstarter.com/) , is a huge global crowdfunding platform that focuses on creativity and they strive to "help bring creative projects to life". By December 2019, the company has received more than $4.6 billion in pledges from more than 17 million backers to fund 445,000 projects, including but not limited to films, music, theater plays, comedy shows, journalism, video games, technology, publishing, inventions, and food-related projects (1). To get funded by Kickstarter, the applicants need to meet their initial campaign goals. Therefore, analyzing Kickstarter data, especially those of previous projects can provide the market trends and one may need to tailor their business plans and strategy.
+This New York-based public benefit corporation, [Kickstarter](https://www.kickstarter.com/) , is a huge global crowdfunding platform that focuses on creativity and they strive to "help bring creative projects to life". By December 2019, the company has received more than $4.6 billion in pledges from more than 17 million backers to fund 445,000 projects, including but not limited to films, music, theater plays, comedy shows, journalism, video games, technology, publishing, inventions, and food-related projects (1). To get funded by Kickstarter, the applicants need to meet their initial campaign goals. Therefore, analyzing Kickstarter data, especially those of previous projects can provide the market trends and one may need to tailor their business plans and strategy.
 
 ### Purpose
 
@@ -19,12 +19,21 @@ Possible challenges could arise from interpreting the way the second deliverable
 
 ### Analysis of Outcomes Based on Launch Date
 
-The number of successful projects in the parent category namely "Theaters" launched during the campaign seem to be greater than the ones failed or cancelled (Diagram 1). The greatest number of successful projects seems to be the ones launched in May that have well exceeded their goals (110%) and the lowest ones to be in December. The projects launched during mid-April to end of June have fared well with attaining nearly 80% of their goals. The cancelled projects have followed a low but steady pattern all through the campaign life except an interruption during the months September and October.
+The number of successful projects in the parent category namely "Theaters" launched during the campaign seem to be greater than the ones failed or cancelled (Figure 1). The greatest number of successful projects seems to be the ones launched in May that have well exceeded their goals (110%) and the lowest ones to be in December. The projects launched during mid-April to end of June have fared well with attaining nearly 80% of their goals. The cancelled projects have followed a low but steady pattern all through the campaign life except an interruption during the months September and October.
 
+**Figure 1: Outcomes versus the launch dates**
+-----
+![Outcomes-Based-on-LaunchDate.png](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Outcomes-Based-on-LaunchDate.png)
+-----
 
 ### Analysis of Outcomes Based on Goals
 
-The successful projects and the ones which failed during the campaign seem to follow a mirror image of each other or in other words they have a negative correlation (Diagram 2). The projects with a campaign goals of below $1000 seem to have been relatively successful (~ 70%) but greater campaign goals seem to fail, especially goals set at 25-30 thousand dollars (the highest failure). Interestingly, the diagram shows a growing success rate between the $35k-$45K campaign goals. There have been no cancelled campaigns throughout the time interval. 
+The successful projects and the ones which failed during the campaign seem to follow a mirror image of each other or in other words they have a negative correlation (Figure 2). The projects with a campaign goals of below $1000 seem to have been relatively successful (~ 70%) but greater campaign goals seem to fail, especially goals set at 25-30 thousand dollars (the highest failure). Interestingly, the Figure shows a growing success rate between the $35k-$45K campaign goals. There have been no cancelled campaigns throughout the time interval. 
+
+**Figure 2: Campaign outcomes relative to the goals**
+-----
+![Outcomes_vs_Goals.png](https://github.com/BHashemi2021/kickstarter-analysis-/blob/main/Outcomes_vs_Goals.png) 
+-----
 
 ### Challenges and Difficulties Encountered
 
